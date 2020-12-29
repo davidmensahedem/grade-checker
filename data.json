@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "5fc19b5a253f43334077b3d9"
+  },
+  "id": "TC20190834",
+  "studentName": " Kings",
+  "course": "Software ",
+  "validityPeriod": "AUG 2019 - SEPT 2020",
+  "branchName": "Tech Centre",
+  "grade": 70,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc19c015e13d127101ca907"
+  },
+  "id": "TC20190839",
+  "studentName": " S-Kings",
+  "course": "Software ",
+  "validityPeriod": "AUG 2019 - SEPT 2020",
+  "branchName": "Tech Centre",
+  "grade": 70,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc19c75ae5bee2f50e4bc26"
+  },
+  "id": "TC20190838",
+  "studentName": " P-Kings",
+  "course": "Software ",
+  "validityPeriod": "AUG 2019 - SEPT 2020",
+  "branchName": "Tech Centre",
+  "grade": 70,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fca361585e44f05c82f14a0"
+  },
+  "id": "TC20190822",
+  "studentName": " M-Kings",
+  "course": "Software ",
+  "validityPeriod": "AUG 2019 - SEPT 2020",
+  "branchName": "Tech Centre",
+  "grade": 70,
+  "__v": 0
+}]
